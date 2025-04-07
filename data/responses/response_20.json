@@ -1,0 +1,2050 @@
+[
+  {
+    "route": [ "SOF", "ZRH" ],
+    "price": 16
+  },
+  {
+    "route": [ "SOF", "VIE", "ZRH" ],
+    "price": 17
+  },
+  {
+    "route": [ "SOF", "BER", "ZRH" ],
+    "price": 21
+  },
+  {
+    "route": [ "SOF", "ATH", "ZRH" ],
+    "price": 26
+  },
+  {
+    "route": [ "SOF", "LON", "ZRH" ],
+    "price": 27
+  },
+  {
+    "route": [ "SOF", "BER", "VIE", "ZRH" ],
+    "price": 27
+  },
+  {
+    "route": [ "SOF", "IST", "ZRH" ],
+    "price": 28
+  },
+  {
+    "route": [ "SOF", "IST", "VIE", "ZRH" ],
+    "price": 29
+  },
+  {
+    "route": [ "SOF", "PAR", "ZRH" ],
+    "price": 30
+  },
+  {
+    "route": [ "SOF", "ROM", "ZRH" ],
+    "price": 31
+  },
+  {
+    "route": [ "SOF", "IST", "ATH", "ZRH" ],
+    "price": 33
+  },
+  {
+    "route": [ "SOF", "AMS", "ZRH" ],
+    "price": 34
+  },
+  {
+    "route": [ "SOF", "BER", "AMS", "ZRH" ],
+    "price": 34
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "ZRH" ],
+    "price": 35
+  },
+  {
+    "route": [ "SOF", "LON", "AMS", "ZRH" ],
+    "price": 35
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "ZRH" ],
+    "price": 36
+  },
+  {
+    "route": [ "SOF", "ROM", "VIE", "ZRH" ],
+    "price": 37
+  },
+  {
+    "route": [ "SOF", "LON", "VIE", "ZRH" ],
+    "price": 37
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "ZRH" ],
+    "price": 37
+  },
+  {
+    "route": [ "SOF", "VIE", "AMS", "ZRH" ],
+    "price": 37
+  },
+  {
+    "route": [ "SOF", "IST", "ROM", "ZRH" ],
+    "price": 38
+  },
+  {
+    "route": [ "SOF", "PAR", "AMS", "ZRH" ],
+    "price": 38
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "ZRH" ],
+    "price": 39
+  },
+  {
+    "route": [ "SOF", "PAR", "VIE", "ZRH" ],
+    "price": 41
+  },
+  {
+    "route": [ "SOF", "VIE", "ATH", "ZRH" ],
+    "price": 42
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "VIE", "ZRH" ],
+    "price": 42
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "ZRH" ],
+    "price": 42
+  },
+  {
+    "route": [ "SOF", "MAD", "ZRH" ],
+    "price": 43
+  },
+  {
+    "route": [ "SOF", "BER", "ROM", "ZRH" ],
+    "price": 43
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "AMS", "ZRH" ],
+    "price": 43
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "VIE", "ZRH" ],
+    "price": 43
+  },
+  {
+    "route": [ "SOF", "IST", "ROM", "VIE", "ZRH" ],
+    "price": 44
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "ZRH" ],
+    "price": 45
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "VIE", "ZRH" ],
+    "price": 45
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "VIE", "ZRH" ],
+    "price": 46
+  },
+  {
+    "route": [ "SOF", "BER", "VIE", "AMS", "ZRH" ],
+    "price": 47
+  },
+  {
+    "route": [ "SOF", "LON", "ROM", "ZRH" ],
+    "price": 48
+  },
+  {
+    "route": [ "SOF", "PAR", "ROM", "ZRH" ],
+    "price": 48
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "VIE", "ZRH" ],
+    "price": 48
+  },
+  {
+    "route": [ "SOF", "IST", "VIE", "AMS", "ZRH" ],
+    "price": 49
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "AMS", "ZRH" ],
+    "price": 49
+  },
+  {
+    "route": [ "SOF", "BER", "ROM", "VIE", "ZRH" ],
+    "price": 49
+  },
+  {
+    "route": [ "SOF", "IST", "AMS", "ZRH" ],
+    "price": 50
+  },
+  {
+    "route": [ "SOF", "ROM", "ATH", "ZRH" ],
+    "price": 50
+  },
+  {
+    "route": [ "SOF", "ROM", "AMS", "ZRH" ],
+    "price": 50
+  },
+  {
+    "route": [ "SOF", "PAR", "MAD", "ZRH" ],
+    "price": 50
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "AMS", "ZRH" ],
+    "price": 50
+  },
+  {
+    "route": [ "SOF", "LON", "MAD", "ZRH" ],
+    "price": 51
+  },
+  {
+    "route": [ "SOF", "ROM", "MAD", "ZRH" ],
+    "price": 52
+  },
+  {
+    "route": [ "SOF", "BER", "ATH", "ZRH" ],
+    "price": 52
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "ZRH" ],
+    "price": 52
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "ZRH" ],
+    "price": 52
+  },
+  {
+    "route": [ "SOF", "BER", "VIE", "ATH", "ZRH" ],
+    "price": 52
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "AMS", "ZRH" ],
+    "price": 52
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "AMS", "ZRH" ],
+    "price": 53
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "ROM", "ZRH" ],
+    "price": 53
+  },
+  {
+    "route": [ "SOF", "MAD", "VIE", "ZRH" ],
+    "price": 54
+  },
+  {
+    "route": [ "SOF", "BER", "MAD", "ZRH" ],
+    "price": 54
+  },
+  {
+    "route": [ "SOF", "LON", "ROM", "VIE", "ZRH" ],
+    "price": 54
+  },
+  {
+    "route": [ "SOF", "IST", "VIE", "ATH", "ZRH" ],
+    "price": 54
+  },
+  {
+    "route": [ "SOF", "PAR", "ROM", "VIE", "ZRH" ],
+    "price": 54
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "MAD", "ZRH" ],
+    "price": 55
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "AMS", "ZRH" ],
+    "price": 55
+  },
+  {
+    "route": [ "SOF", "MAD", "AMS", "ZRH" ],
+    "price": 56
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "VIE", "ZRH" ],
+    "price": 56
+  },
+  {
+    "route": [ "SOF", "IST", "ROM", "ATH", "ZRH" ],
+    "price": 57
+  },
+  {
+    "route": [ "SOF", "ROM", "VIE", "AMS", "ZRH" ],
+    "price": 57
+  },
+  {
+    "route": [ "SOF", "IST", "ROM", "AMS", "ZRH" ],
+    "price": 57
+  },
+  {
+    "route": [ "SOF", "LON", "VIE", "AMS", "ZRH" ],
+    "price": 57
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "ROM", "ZRH" ],
+    "price": 58
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "VIE", "ZRH" ],
+    "price": 58
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "ROM", "ZRH" ],
+    "price": 59
+  },
+  {
+    "route": [ "SOF", "IST", "ROM", "MAD", "ZRH" ],
+    "price": 59
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "ROM", "VIE", "ZRH" ],
+    "price": 59
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "ZRH" ],
+    "price": 60
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "AMS", "ZRH" ],
+    "price": 60
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "ROM", "ZRH" ],
+    "price": 61
+  },
+  {
+    "route": [ "SOF", "PAR", "MAD", "VIE", "ZRH" ],
+    "price": 61
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "ZRH" ],
+    "price": 61
+  },
+  {
+    "route": [ "SOF", "PAR", "VIE", "AMS", "ZRH" ],
+    "price": 61
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "VIE", "ZRH" ],
+    "price": 62
+  },
+  {
+    "route": [ "SOF", "ROM", "VIE", "ATH", "ZRH" ],
+    "price": 62
+  },
+  {
+    "route": [ "SOF", "LON", "MAD", "VIE", "ZRH" ],
+    "price": 62
+  },
+  {
+    "route": [ "SOF", "LON", "VIE", "ATH", "ZRH" ],
+    "price": 62
+  },
+  {
+    "route": [ "SOF", "BER", "ROM", "AMS", "ZRH" ],
+    "price": 62
+  },
+  {
+    "route": [ "SOF", "BER", "ROM", "ATH", "ZRH" ],
+    "price": 62
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "VIE", "AMS", "ZRH" ],
+    "price": 62
+  },
+  {
+    "route": [ "SOF", "IST", "MAD", "ZRH" ],
+    "price": 63
+  },
+  {
+    "route": [ "SOF", "PAR", "ATH", "ZRH" ],
+    "price": 63
+  },
+  {
+    "route": [ "SOF", "LON", "ATH", "ZRH" ],
+    "price": 63
+  },
+  {
+    "route": [ "SOF", "PAR", "MAD", "AMS", "ZRH" ],
+    "price": 63
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "ROM", "ZRH" ],
+    "price": 63
+  },
+  {
+    "route": [ "SOF", "ROM", "MAD", "VIE", "ZRH" ],
+    "price": 63
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "VIE", "AMS", "ZRH" ],
+    "price": 63
+  },
+  {
+    "route": [ "SOF", "BER", "ROM", "MAD", "ZRH" ],
+    "price": 64
+  },
+  {
+    "route": [ "SOF", "LON", "MAD", "AMS", "ZRH" ],
+    "price": 64
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "ROM", "ZRH" ],
+    "price": 64
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "ROM", "VIE", "ZRH" ],
+    "price": 64
+  },
+  {
+    "route": [ "SOF", "IST", "ROM", "VIE", "AMS", "ZRH" ],
+    "price": 64
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "MAD", "ZRH" ],
+    "price": 65
+  },
+  {
+    "route": [ "SOF", "BER", "MAD", "VIE", "ZRH" ],
+    "price": 65
+  },
+  {
+    "route": [ "SOF", "ROM", "MAD", "AMS", "ZRH" ],
+    "price": 65
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "AMS", "ZRH" ],
+    "price": 65
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "ROM", "VIE", "ZRH" ],
+    "price": 65
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "VIE", "AMS", "ZRH" ],
+    "price": 65
+  },
+  {
+    "route": [ "SOF", "AMS", "ATH", "ZRH" ],
+    "price": 66
+  },
+  {
+    "route": [ "SOF", "BER", "AMS", "ATH", "ZRH" ],
+    "price": 66
+  },
+  {
+    "route": [ "SOF", "PAR", "VIE", "ATH", "ZRH" ],
+    "price": 66
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "VIE", "AMS", "ZRH" ],
+    "price": 66
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "MAD", "VIE", "ZRH" ],
+    "price": 66
+  },
+  {
+    "route": [ "SOF", "LON", "ROM", "AMS", "ZRH" ],
+    "price": 67
+  },
+  {
+    "route": [ "SOF", "PAR", "ROM", "ATH", "ZRH" ],
+    "price": 67
+  },
+  {
+    "route": [ "SOF", "PAR", "ROM", "AMS", "ZRH" ],
+    "price": 67
+  },
+  {
+    "route": [ "SOF", "LON", "AMS", "ATH", "ZRH" ],
+    "price": 67
+  },
+  {
+    "route": [ "SOF", "LON", "ROM", "ATH", "ZRH" ],
+    "price": 67
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "ATH", "ZRH" ],
+    "price": 67
+  },
+  {
+    "route": [ "SOF", "BER", "MAD", "AMS", "ZRH" ],
+    "price": 67
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "VIE", "ATH", "ZRH" ],
+    "price": 67
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "VIE", "ZRH" ],
+    "price": 67
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "ROM", "VIE", "ZRH" ],
+    "price": 67
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "ZRH" ],
+    "price": 67
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "ATH", "ZRH" ],
+    "price": 68
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "ATH", "ZRH" ],
+    "price": 68
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "AMS", "ZRH" ],
+    "price": 68
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "VIE", "ATH", "ZRH" ],
+    "price": 68
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "MAD", "AMS", "ZRH" ],
+    "price": 68
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "VIE", "AMS", "ZRH" ],
+    "price": 68
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "MAD", "ZRH" ],
+    "price": 69
+  },
+  {
+    "route": [ "SOF", "LON", "ROM", "MAD", "ZRH" ],
+    "price": 69
+  },
+  {
+    "route": [ "SOF", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 69
+  },
+  {
+    "route": [ "SOF", "PAR", "ROM", "MAD", "ZRH" ],
+    "price": 69
+  },
+  {
+    "route": [ "SOF", "BER", "ROM", "VIE", "AMS", "ZRH" ],
+    "price": 69
+  },
+  {
+    "route": [ "SOF", "IST", "ROM", "VIE", "ATH", "ZRH" ],
+    "price": 69
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "ROM", "VIE", "ZRH" ],
+    "price": 69
+  },
+  {
+    "route": [ "SOF", "PAR", "AMS", "ATH", "ZRH" ],
+    "price": 70
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "ATH", "ZRH" ],
+    "price": 70
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "MAD", "ZRH" ],
+    "price": 70
+  },
+  {
+    "route": [ "SOF", "IST", "ROM", "MAD", "VIE", "ZRH" ],
+    "price": 70
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "VIE", "ATH", "ZRH" ],
+    "price": 70
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "ROM", "VIE", "ZRH" ],
+    "price": 70
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "VIE", "ATH", "ZRH" ],
+    "price": 71
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "VIE", "ZRH" ],
+    "price": 71
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "MAD", "ZRH" ],
+    "price": 72
+  },
+  {
+    "route": [ "SOF", "IST", "ROM", "MAD", "AMS", "ZRH" ],
+    "price": 72
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "ROM", "AMS", "ZRH" ],
+    "price": 72
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "ROM", "ATH", "ZRH" ],
+    "price": 72
+  },
+  {
+    "route": [ "SOF", "MAD", "ATH", "ZRH" ],
+    "price": 73
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "ROM", "ZRH" ],
+    "price": 73
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "ATH", "ZRH" ],
+    "price": 73
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "VIE", "ATH", "ZRH" ],
+    "price": 73
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "VIE", "ZRH" ],
+    "price": 73
+  },
+  {
+    "route": [ "SOF", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 74
+  },
+  {
+    "route": [ "SOF", "IST", "MAD", "VIE", "ZRH" ],
+    "price": 74
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "ROM", "ZRH" ],
+    "price": 74
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "AMS", "ZRH" ],
+    "price": 74
+  },
+  {
+    "route": [ "SOF", "LON", "ROM", "VIE", "AMS", "ZRH" ],
+    "price": 74
+  },
+  {
+    "route": [ "SOF", "BER", "ROM", "VIE", "ATH", "ZRH" ],
+    "price": 74
+  },
+  {
+    "route": [ "SOF", "PAR", "ROM", "VIE", "AMS", "ZRH" ],
+    "price": 74
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "ROM", "MAD", "ZRH" ],
+    "price": 74
+  },
+  {
+    "route": [ "SOF", "BER", "ROM", "MAD", "VIE", "ZRH" ],
+    "price": 75
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "AMS", "ATH", "ZRH" ],
+    "price": 75
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "MAD", "ZRH" ],
+    "price": 75
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "MAD", "ZRH" ],
+    "price": 76
+  },
+  {
+    "route": [ "SOF", "IST", "MAD", "AMS", "ZRH" ],
+    "price": 76
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "MAD", "VIE", "ZRH" ],
+    "price": 76
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "VIE", "AMS", "ZRH" ],
+    "price": 76
+  },
+  {
+    "route": [ "SOF", "BER", "ROM", "MAD", "AMS", "ZRH" ],
+    "price": 77
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "ROM", "ATH", "ZRH" ],
+    "price": 77
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "ROM", "AMS", "ZRH" ],
+    "price": 77
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "ATH", "ZRH" ],
+    "price": 78
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "ROM", "AMS", "ZRH" ],
+    "price": 78
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "ROM", "ATH", "ZRH" ],
+    "price": 78
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "MAD", "AMS", "ZRH" ],
+    "price": 78
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "ROM", "ZRH" ],
+    "price": 78
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "VIE", "AMS", "ZRH" ],
+    "price": 78
+  },
+  {
+    "route": [ "SOF", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 79
+  },
+  {
+    "route": [ "SOF", "LON", "ROM", "VIE", "ATH", "ZRH" ],
+    "price": 79
+  },
+  {
+    "route": [ "SOF", "BER", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 79
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "ROM", "VIE", "ZRH" ],
+    "price": 79
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "ROM", "MAD", "ZRH" ],
+    "price": 79
+  },
+  {
+    "route": [ "SOF", "PAR", "ROM", "VIE", "ATH", "ZRH" ],
+    "price": 79
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "ROM", "VIE", "AMS", "ZRH" ],
+    "price": 79
+  },
+  {
+    "route": [ "SOF", "PAR", "MAD", "ATH", "ZRH" ],
+    "price": 80
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "MAD", "VIE", "ZRH" ],
+    "price": 80
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "ROM", "AMS", "ZRH" ],
+    "price": 80
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "MAD", "ZRH" ],
+    "price": 80
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "ROM", "ATH", "ZRH" ],
+    "price": 80
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "ROM", "MAD", "ZRH" ],
+    "price": 80
+  },
+  {
+    "route": [ "SOF", "LON", "ROM", "MAD", "VIE", "ZRH" ],
+    "price": 80
+  },
+  {
+    "route": [ "SOF", "PAR", "ROM", "MAD", "VIE", "ZRH" ],
+    "price": 80
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "ROM", "VIE", "ZRH" ],
+    "price": 80
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "AMS", "ZRH" ],
+    "price": 80
+  },
+  {
+    "route": [ "SOF", "LON", "MAD", "ATH", "ZRH" ],
+    "price": 81
+  },
+  {
+    "route": [ "SOF", "PAR", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 81
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "AMS", "ATH", "ZRH" ],
+    "price": 81
+  },
+  {
+    "route": [ "SOF", "IST", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 81
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "VIE", "ATH", "ZRH" ],
+    "price": 81
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "MAD", "VIE", "ZRH" ],
+    "price": 81
+  },
+  {
+    "route": [ "SOF", "ROM", "AMS", "ATH", "ZRH" ],
+    "price": 82
+  },
+  {
+    "route": [ "SOF", "ROM", "MAD", "ATH", "ZRH" ],
+    "price": 82
+  },
+  {
+    "route": [ "SOF", "IST", "AMS", "ATH", "ZRH" ],
+    "price": 82
+  },
+  {
+    "route": [ "SOF", "LON", "ROM", "MAD", "AMS", "ZRH" ],
+    "price": 82
+  },
+  {
+    "route": [ "SOF", "PAR", "ROM", "MAD", "AMS", "ZRH" ],
+    "price": 82
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "MAD", "AMS", "ZRH" ],
+    "price": 82
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "ROM", "MAD", "ZRH" ],
+    "price": 82
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "ROM", "AMS", "ZRH" ],
+    "price": 82
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "ROM", "ATH", "ZRH" ],
+    "price": 82
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "AMS", "ATH", "ZRH" ],
+    "price": 82
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "VIE", "AMS", "ZRH" ],
+    "price": 82
+  },
+  {
+    "route": [ "SOF", "LON", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 82
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "ROM", "ZRH" ],
+    "price": 83
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "MAD", "VIE", "ZRH" ],
+    "price": 83
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "MAD", "AMS", "ZRH" ],
+    "price": 83
+  },
+  {
+    "route": [ "SOF", "ROM", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 83
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "ATH", "ZRH" ],
+    "price": 83
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "ROM", "ATH", "ZRH" ],
+    "price": 83
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "VIE", "ATH", "ZRH" ],
+    "price": 83
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "ROM", "AMS", "ZRH" ],
+    "price": 83
+  },
+  {
+    "route": [ "SOF", "BER", "MAD", "ATH", "ZRH" ],
+    "price": 84
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "ROM", "MAD", "ZRH" ],
+    "price": 84
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "AMS", "ATH", "ZRH" ],
+    "price": 84
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "ROM", "VIE", "ZRH" ],
+    "price": 84
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "ROM", "VIE", "ATH", "ZRH" ],
+    "price": 84
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "ROM", "VIE", "AMS", "ZRH" ],
+    "price": 84
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "MAD", "AMS", "ZRH" ],
+    "price": 85
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "MAD", "ATH", "ZRH" ],
+    "price": 85
+  },
+  {
+    "route": [ "SOF", "BER", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 85
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "MAD", "ZRH" ],
+    "price": 85
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "AMS", "ATH", "ZRH" ],
+    "price": 85
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "ROM", "MAD", "ZRH" ],
+    "price": 85
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "ROM", "VIE", "AMS", "ZRH" ],
+    "price": 85
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "ROM", "MAD", "VIE", "ZRH" ],
+    "price": 85
+  },
+  {
+    "route": [ "SOF", "PAR", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 86
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "MAD", "VIE", "ZRH" ],
+    "price": 86
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 86
+  },
+  {
+    "route": [ "SOF", "LON", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 87
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "MAD", "VIE", "ZRH" ],
+    "price": 87
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "VIE", "ATH", "ZRH" ],
+    "price": 87
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "ROM", "VIE", "AMS", "ZRH" ],
+    "price": 87
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "VIE", "AMS", "ZRH" ],
+    "price": 87
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "AMS", "ATH", "ZRH" ],
+    "price": 87
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "ROM", "MAD", "AMS", "ZRH" ],
+    "price": 87
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "ATH", "ZRH" ],
+    "price": 88
+  },
+  {
+    "route": [ "SOF", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 88
+  },
+  {
+    "route": [ "SOF", "ROM", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 88
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "MAD", "AMS", "ZRH" ],
+    "price": 88
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "MAD", "AMS", "ZRH" ],
+    "price": 89
+  },
+  {
+    "route": [ "SOF", "LON", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 89
+  },
+  {
+    "route": [ "SOF", "IST", "ROM", "AMS", "ATH", "ZRH" ],
+    "price": 89
+  },
+  {
+    "route": [ "SOF", "IST", "ROM", "MAD", "ATH", "ZRH" ],
+    "price": 89
+  },
+  {
+    "route": [ "SOF", "ROM", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 89
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "ROM", "VIE", "ZRH" ],
+    "price": 89
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "ROM", "VIE", "AMS", "ZRH" ],
+    "price": 89
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "ROM", "ZRH" ],
+    "price": 89
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "ROM", "VIE", "ATH", "ZRH" ],
+    "price": 89
+  },
+  {
+    "route": [ "SOF", "BER", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 90
+  },
+  {
+    "route": [ "SOF", "IST", "ROM", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 90
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "ROM", "VIE", "ATH", "ZRH" ],
+    "price": 90
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "ROM", "MAD", "VIE", "ZRH" ],
+    "price": 90
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "ROM", "VIE", "AMS", "ZRH" ],
+    "price": 90
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 91
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "ROM", "MAD", "VIE", "ZRH" ],
+    "price": 91
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "MAD", "VIE", "ZRH" ],
+    "price": 91
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "VIE", "AMS", "ZRH" ],
+    "price": 91
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "AMS", "ATH", "ZRH" ],
+    "price": 92
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "ROM", "ATH", "ZRH" ],
+    "price": 92
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "ROM", "AMS", "ZRH" ],
+    "price": 92
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "ATH", "ZRH" ],
+    "price": 92
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "VIE", "ATH", "ZRH" ],
+    "price": 92
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "ROM", "VIE", "ATH", "ZRH" ],
+    "price": 92
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "ROM", "MAD", "AMS", "ZRH" ],
+    "price": 92
+  },
+  {
+    "route": [ "SOF", "IST", "MAD", "ATH", "ZRH" ],
+    "price": 93
+  },
+  {
+    "route": [ "SOF", "PAR", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 93
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "ATH", "ZRH" ],
+    "price": 93
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "MAD", "AMS", "ZRH" ],
+    "price": 93
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "ROM", "MAD", "VIE", "ZRH" ],
+    "price": 93
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "ROM", "AMS", "ZRH" ],
+    "price": 93
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "ROM", "ATH", "ZRH" ],
+    "price": 93
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "ROM", "MAD", "AMS", "ZRH" ],
+    "price": 93
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "VIE", "AMS", "ZRH" ],
+    "price": 93
+  },
+  {
+    "route": [ "SOF", "BER", "ROM", "AMS", "ATH", "ZRH" ],
+    "price": 94
+  },
+  {
+    "route": [ "SOF", "BER", "ROM", "MAD", "ATH", "ZRH" ],
+    "price": 94
+  },
+  {
+    "route": [ "SOF", "IST", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 94
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "ROM", "MAD", "ZRH" ],
+    "price": 94
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "MAD", "ZRH" ],
+    "price": 94
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 94
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "ROM", "VIE", "ATH", "ZRH" ],
+    "price": 94
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "MAD", "ATH", "ZRH" ],
+    "price": 95
+  },
+  {
+    "route": [ "SOF", "PAR", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 95
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "ROM", "MAD", "ZRH" ],
+    "price": 95
+  },
+  {
+    "route": [ "SOF", "BER", "ROM", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 95
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 95
+  },
+  {
+    "route": [ "SOF", "IST", "ROM", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 95
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "ROM", "MAD", "AMS", "ZRH" ],
+    "price": 95
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "ROM", "MAD", "VIE", "ZRH" ],
+    "price": 95
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "ROM", "VIE", "ZRH" ],
+    "price": 95
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "ROM", "VIE", "ATH", "ZRH" ],
+    "price": 95
+  },
+  {
+    "route": [ "SOF", "LON", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 96
+  },
+  {
+    "route": [ "SOF", "IST", "ROM", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 96
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "MAD", "VIE", "ZRH" ],
+    "price": 96
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "VIE", "ATH", "ZRH" ],
+    "price": 96
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 96
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "ROM", "MAD", "VIE", "ZRH" ],
+    "price": 96
+  },
+  {
+    "route": [ "SOF", "ROM", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 97
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "ROM", "AMS", "ZRH" ],
+    "price": 97
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "ROM", "ATH", "ZRH" ],
+    "price": 97
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "ROM", "MAD", "AMS", "ZRH" ],
+    "price": 97
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 97
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "AMS", "ATH", "ZRH" ],
+    "price": 97
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "MAD", "AMS", "ZRH" ],
+    "price": 98
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 98
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "ATH", "ZRH" ],
+    "price": 98
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "ROM", "MAD", "AMS", "ZRH" ],
+    "price": 98
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "VIE", "ATH", "ZRH" ],
+    "price": 98
+  },
+  {
+    "route": [ "SOF", "PAR", "ROM", "AMS", "ATH", "ZRH" ],
+    "price": 99
+  },
+  {
+    "route": [ "SOF", "PAR", "ROM", "MAD", "ATH", "ZRH" ],
+    "price": 99
+  },
+  {
+    "route": [ "SOF", "LON", "ROM", "MAD", "ATH", "ZRH" ],
+    "price": 99
+  },
+  {
+    "route": [ "SOF", "LON", "ROM", "AMS", "ATH", "ZRH" ],
+    "price": 99
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "MAD", "ATH", "ZRH" ],
+    "price": 99
+  },
+  {
+    "route": [ "SOF", "IST", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 99
+  },
+  {
+    "route": [ "SOF", "BER", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 99
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "ROM", "MAD", "ZRH" ],
+    "price": 99
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "ROM", "VIE", "AMS", "ZRH" ],
+    "price": 99
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "MAD", "ATH", "ZRH" ],
+    "price": 100
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "AMS", "ATH", "ZRH" ],
+    "price": 100
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 100
+  },
+  {
+    "route": [ "SOF", "LON", "ROM", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 100
+  },
+  {
+    "route": [ "SOF", "BER", "ROM", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 100
+  },
+  {
+    "route": [ "SOF", "PAR", "ROM", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 100
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 100
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "MAD", "ZRH" ],
+    "price": 100
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 100
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "ROM", "VIE", "AMS", "ZRH" ],
+    "price": 100
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 101
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 101
+  },
+  {
+    "route": [ "SOF", "BER", "ROM", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 101
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "MAD", "ATH", "ZRH" ],
+    "price": 102
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "ROM", "AMS", "ZRH" ],
+    "price": 102
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "ROM", "ATH", "ZRH" ],
+    "price": 102
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 103
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "ROM", "MAD", "ZRH" ],
+    "price": 104
+  },
+  {
+    "route": [ "SOF", "IST", "ROM", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 104
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "ROM", "AMS", "ATH", "ZRH" ],
+    "price": 104
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "ROM", "MAD", "ATH", "ZRH" ],
+    "price": 104
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "ROM", "VIE", "ATH", "ZRH" ],
+    "price": 104
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "ROM", "VIE", "AMS", "ZRH" ],
+    "price": 104
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "MAD", "VIE", "ZRH" ],
+    "price": 105
+  },
+  {
+    "route": [ "SOF", "PAR", "ROM", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 105
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 105
+  },
+  {
+    "route": [ "SOF", "LON", "ROM", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 105
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "MAD", "ATH", "ZRH" ],
+    "price": 105
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "ROM", "MAD", "VIE", "ZRH" ],
+    "price": 105
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "ROM", "VIE", "ATH", "ZRH" ],
+    "price": 105
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "ROM", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 105
+  },
+  {
+    "route": [ "SOF", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 106
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "MAD", "ATH", "ZRH" ],
+    "price": 106
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 106
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "AMS", "ATH", "ZRH" ],
+    "price": 106
+  },
+  {
+    "route": [ "SOF", "LON", "ROM", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 106
+  },
+  {
+    "route": [ "SOF", "PAR", "ROM", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 106
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 106
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "ROM", "MAD", "VIE", "ZRH" ],
+    "price": 106
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "MAD", "AMS", "ZRH" ],
+    "price": 107
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "ROM", "MAD", "AMS", "ZRH" ],
+    "price": 107
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 107
+  },
+  {
+    "route": [ "SOF", "IST", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 108
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 108
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 108
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "ROM", "AMS", "ZRH" ],
+    "price": 108
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "ROM", "ATH", "ZRH" ],
+    "price": 108
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "ROM", "MAD", "AMS", "ZRH" ],
+    "price": 108
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "ROM", "AMS", "ATH", "ZRH" ],
+    "price": 109
+  },
+  {
+    "route": [ "SOF", "BER", "ROM", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 109
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "ROM", "MAD", "ATH", "ZRH" ],
+    "price": 109
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "ROM", "VIE", "ATH", "ZRH" ],
+    "price": 109
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "ROM", "VIE", "AMS", "ZRH" ],
+    "price": 109
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 110
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "ROM", "MAD", "ATH", "ZRH" ],
+    "price": 110
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "ROM", "AMS", "ATH", "ZRH" ],
+    "price": 110
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "MAD", "ATH", "ZRH" ],
+    "price": 110
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "ROM", "MAD", "VIE", "ZRH" ],
+    "price": 110
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "ROM", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 110
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "ROM", "MAD", "ZRH" ],
+    "price": 110
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 110
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "ROM", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 110
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "MAD", "VIE", "ZRH" ],
+    "price": 111
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "ROM", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 111
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 111
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 111
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "ROM", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 111
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "ROM", "AMS", "ATH", "ZRH" ],
+    "price": 112
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "ROM", "MAD", "ATH", "ZRH" ],
+    "price": 112
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 112
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "AMS", "ATH", "ZRH" ],
+    "price": 112
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "ROM", "MAD", "AMS", "ZRH" ],
+    "price": 112
+  },
+  {
+    "route": [ "SOF", "PAR", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 113
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "ROM", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 113
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "MAD", "AMS", "ZRH" ],
+    "price": 113
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 114
+  },
+  {
+    "route": [ "SOF", "LON", "ROM", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 114
+  },
+  {
+    "route": [ "SOF", "PAR", "ROM", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 114
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "ROM", "AMS", "ATH", "ZRH" ],
+    "price": 114
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 114
+  },
+  {
+    "route": [ "SOF", "LON", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 114
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "ROM", "MAD", "ATH", "ZRH" ],
+    "price": 114
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "ROM", "VIE", "ATH", "ZRH" ],
+    "price": 114
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 115
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "MAD", "ATH", "ZRH" ],
+    "price": 115
+  },
+  {
+    "route": [ "SOF", "ROM", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 115
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "ROM", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 115
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "ROM", "MAD", "VIE", "ZRH" ],
+    "price": 115
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "ROM", "AMS", "ATH", "ZRH" ],
+    "price": 115
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "ROM", "MAD", "ATH", "ZRH" ],
+    "price": 115
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "ROM", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 115
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "ROM", "VIE", "AMS", "ZRH" ],
+    "price": 115
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 116
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "ROM", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 116
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "ROM", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 116
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 116
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "ROM", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 116
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 117
+  },
+  {
+    "route": [ "SOF", "BER", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 117
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "ROM", "MAD", "AMS", "ZRH" ],
+    "price": 117
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "ROM", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 117
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "ROM", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 118
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 118
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "ROM", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 119
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "ROM", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 119
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 119
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 120
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "ROM", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 120
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "ROM", "VIE", "ATH", "ZRH" ],
+    "price": 120
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 121
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "ROM", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 121
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 121
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "ROM", "MAD", "VIE", "ZRH" ],
+    "price": 121
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "ROM", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 121
+  },
+  {
+    "route": [ "SOF", "IST", "ROM", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 122
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "ROM", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 122
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 123
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "ROM", "MAD", "AMS", "ZRH" ],
+    "price": 123
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "ROM", "AMS", "ATH", "ZRH" ],
+    "price": 124
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "ROM", "MAD", "ATH", "ZRH" ],
+    "price": 124
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "MAD", "ATH", "ZRH" ],
+    "price": 124
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "ROM", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 124
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 125
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "ROM", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 125
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "ROM", "AMS", "ATH", "ZRH" ],
+    "price": 125
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "ROM", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 125
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 125
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "ROM", "MAD", "ATH", "ZRH" ],
+    "price": 125
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 125
+  },
+  {
+    "route": [ "SOF", "IST", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 126
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "ROM", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 126
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "ROM", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 127
+  },
+  {
+    "route": [ "SOF", "BER", "ROM", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 127
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 128
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "ROM", "AMS", "ATH", "ZRH" ],
+    "price": 129
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "ROM", "MAD", "ATH", "ZRH" ],
+    "price": 129
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "ROM", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 129
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 130
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "ROM", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 130
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "MAD", "ATH", "ZRH" ],
+    "price": 130
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 130
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "ROM", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 130
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "ROM", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 130
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "ROM", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 131
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "ROM", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 131
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 131
+  },
+  {
+    "route": [ "SOF", "PAR", "ROM", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 132
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 132
+  },
+  {
+    "route": [ "SOF", "LON", "ROM", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 132
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "ROM", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 132
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 133
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "ROM", "MAD", "ATH", "ZRH" ],
+    "price": 134
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "ROM", "AMS", "ATH", "ZRH" ],
+    "price": 134
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 135
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "ROM", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 135
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "ROM", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 135
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "ROM", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 136
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 136
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "ROM", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 137
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 138
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 139
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "ROM", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 139
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 139
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "ROM", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 140
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "ROM", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 140
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "ROM", "MAD", "ATH", "ZRH" ],
+    "price": 140
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "ROM", "AMS", "ATH", "ZRH" ],
+    "price": 140
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "ROM", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 141
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "ROM", "MAD", "VIE", "AMS", "ZRH" ],
+    "price": 141
+  },
+  {
+    "route": [ "SOF", "LON", "BER", "ROM", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 142
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 143
+  },
+  {
+    "route": [ "SOF", "PAR", "BER", "ROM", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 143
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "ROM", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 144
+  },
+  {
+    "route": [ "SOF", "IST", "BER", "ROM", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 145
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 145
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "ROM", "MAD", "VIE", "ATH", "ZRH" ],
+    "price": 146
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "ROM", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 147
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "ROM", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 147
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 148
+  },
+  {
+    "route": [ "SOF", "LON", "PAR", "BER", "ROM", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 148
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "ROM", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 149
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "ROM", "MAD", "AMS", "ATH", "ZRH" ],
+    "price": 155
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "ROM", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 157
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 157
+  },
+  {
+    "route": [ "SOF", "IST", "PAR", "BER", "ROM", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 158
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "ROM", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 162
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 163
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "BER", "ROM", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 167
+  },
+  {
+    "route": [ "SOF", "IST", "LON", "PAR", "BER", "ROM", "MAD", "VIE", "AMS", "ATH", "ZRH" ],
+    "price": 173
+  }
+]
