@@ -1,0 +1,14 @@
+[
+  {
+    "route": [ "SOF", "LON", "MLE" ],
+    "price": 30
+  },
+  {
+    "route": [ "SOF", "MLE" ],
+    "price": 70
+  },
+  {
+    "route": [ "SOF", "IST", "CMB", "MLE" ],
+    "price": 70
+  }
+]
