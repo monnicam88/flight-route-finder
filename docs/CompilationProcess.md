@@ -15,15 +15,15 @@ C++ version: `ISO C++14 Standard`
 &emsp;2. Extract the **`.h/.hpp, .cpp`** and **`.txt`** files from folders  
 &emsp;3. Open Developer Command Prompt for VS and go to the project folder  **`cd <path_to_project_folder>`**. Then compile the project **`cl /EHsc main.cpp Flight.cpp Route.cpp RouteService.cpp ConsoleDemo.cpp StartHttpRequest.cpp /Fe:FlightFinder.exe && del *.obj`**. After the project is compiled start the server **`FlightFinder.exe`**   
 
-![COMPILE](./docs/images/compile.png)
+![COMPILE](./images/compile.png)
 
 &emsp;&emsp;&emsp;4. Open Postman - project endpoint: **`http://localhost:8080/routes`** and select **`POST`** method. Add in Headers **`Content-Type   aplication/json`**  
 
-![POSTMAN](./docs/images/postman.png)
+![POSTMAN](./images/postman.png)
  
 &emsp;&emsp;&emsp;5. Send a request and get a response  
 
-![REQUEST](./docs/images/request.png)
+![REQUEST](./images/request.png)
 
 ---
 **`ConsoleDemo`** module (Subtask 1)  
@@ -34,4 +34,4 @@ C++ version: `ISO C++14 Standard`
 &emsp;4. Execute the step 3 from **`StartHttpRequest`** module (Subtasks 2 and 3)  
 &emsp;5. Run some examples  
 
-![COMPILE DEMO](./docs/images/compileDemo.png)
+![COMPILE DEMO](./images/compileDemo.png)
