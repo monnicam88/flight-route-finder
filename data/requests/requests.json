@@ -1,0 +1,161 @@
+{
+    "origin": "SOF",
+    "destination": "MLE"
+}
+
+
+
+
+{
+    "origin": "SOF",
+    "destination": "LON"
+}
+
+
+
+
+{
+    "origin": "MLE",
+    "destination": "SOF"
+}
+
+
+
+
+{
+    "origin": "MAL",
+    "destination": "MLE"
+}
+
+
+
+
+{
+    "destination": "MLE"
+}
+
+
+
+
+{
+    "origin": "SOF"
+}
+
+
+
+
+{
+   
+}
+
+
+
+
+{
+    "origin": 123,
+    "destination": "MLE"
+}
+
+
+
+
+{
+    "origin": "SOF",
+    "destination": 123
+}
+
+
+
+
+{
+    "origin": "SOF",
+    "destination": "MLE",
+    "maxFlights": "two"
+}
+
+
+
+
+{
+    "origin": "SOF",
+    "destination": "MLE",
+    "maxFlights": -1
+}
+
+
+
+
+{
+    "origin": "SOF",
+    "destination": "MLE",
+    "maxFlights": 4294967296
+}
+
+
+
+
+{
+    "origin": SOF,
+    "destination": MLE
+}
+
+
+
+
+{
+    "origin": "SOF",
+    "destination": "MLE",
+    "maxFlights": 1
+}
+
+
+
+
+{
+    "origin": "SOF",
+    "destination": "MLE",
+    "maxFlights": 2
+}
+
+
+
+
+{
+    "origin": "SOF",
+    "destination": "MLE",
+    "maxFlights": 0
+}
+
+
+
+
+{
+    "origin": "SOF",
+    "destination": "SOF"
+}
+
+
+
+
+{
+    "origin": "SOF",
+    "destination": "MLE",
+    "maxFlights": 1000000
+}
+
+
+
+
+{
+    "origin": "SOF",
+    "destination": "MLE",
+    "maxFlights": 4294967295
+}
+
+
+
+
+{
+    "origin": "SOF",
+    "destination": "ZRH"
+}
