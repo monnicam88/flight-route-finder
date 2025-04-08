@@ -4,7 +4,7 @@
 &emsp;**1.1. Find existing and missing routes**  
 | ID | Description | Request                         | Expexted result | HTTP status |
 |----|-------------|---------------------------------|:---------------:|:-----------:|
-| 1.1.1 | <p align="justify">Verify that all possible routes from SOF to MLE<br>are returned, sorted by price</p> | `{ "origin": "SOF",`<br>`  "destination": "MLE" }` | <a href=".../data/responses/response_01.json">Response</a> | 200 |
+| 1.1.1 | <p align="justify">Verify that all possible routes from SOF to MLE<br>are returned, sorted by price</p> | `{ "origin": "SOF",`<br>`  "destination": "MLE" }` | <a href="../data/responses/response_01.json">Response</a> | 200 |
 | 1.1.2 | <p align="justify">Verify that all possible routes from SOF to LON<br>are returned, sorted by price</p> | `{ "origin": "SOF",`<br>`  "destination": "LON" }` | <a href="../data/responses/response_02.json">Response</a> | 200 |
 | 1.1.3 | <p align="justify">Verify empty array is returned when no routes<br>exist</p> | `{ "origin": "MLE",`<br>`  "destination": "SOF" }` | <a href="../data/responses/response_03.json">Response</a> | 200 |
 | 1.1.4 | <p align="justify">Verify empty array is returned when having non<br>-existent city codes</p> | `{ "origin": "MAL",`<br>`  "destination": "MLE" }` | <a href="../data/responses/response_04.json">Response</a> | 200 |
