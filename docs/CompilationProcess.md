@@ -3,7 +3,7 @@ Used compiler for this project: `Microsoft (R) C/C++ Optimizing Compiler Version
 Operating system: `Microsoft Windows [Version 10.0.22631.5126]`  
 C++ version: `ISO C++14 Standard`
 
-## Prerequisites
+## Requirements
 &emsp; - C++ compiler with C++14 support (e.g. Microsoft C/C++ Optimizing Compiler, MinGW)  
 &emsp; - For the REST API: `cpp-httplib` and `nlohmann/json`  
 &emsp; - For the requests execution: e.g. Postman
