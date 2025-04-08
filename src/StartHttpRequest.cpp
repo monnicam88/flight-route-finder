@@ -76,7 +76,7 @@ void startHttpServer(const RouteService& routeService) {
         std::vector<Route> routeList = routeService.findRoutes(origin, destination, maxFlights, isMaxFlightsUsed);
 
         if (routeList.empty()) {
-            res.set_content("[]", "application/json");
+            res.set_content("{\"message\": \"There are no routes!\"}", "application/json");
             return;
         }
 
