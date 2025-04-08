@@ -22,9 +22,9 @@ std::vector<Route> Route::findPossibleRoutes(
     const std::vector<Flight>& flights,
     const std::string& origin,
     const std::string& destination,
-    uint32_t maxFlights,
-    bool isMaxFlightsUsed
-) {
+    uint32_t maxFlights
+) 
+{
     std::vector<Route> routes;
     std::vector<std::string> visited;
     std::vector<std::string> currentPath;
@@ -32,7 +32,7 @@ std::vector<Route> Route::findPossibleRoutes(
     visited.push_back(origin);
     currentPath.push_back(origin);
 
-    findRoutesRecursive(flights, origin, destination, visited, currentPath, 0, routes, maxFlights, 0, isMaxFlightsUsed);
+    findRoutesRecursive(flights, origin, destination, visited, currentPath, 0, routes, maxFlights, 0);
 
     std::sort(routes.begin(), routes.end(),
         [](const Route& a, const Route& b) {
@@ -53,20 +53,19 @@ void Route::findRoutesRecursive(
     uint32_t currentPrice,
     std::vector<Route>& routes,
     uint32_t maxFlights,
-    uint32_t flightsTaken,
-    bool isMaxFlightsUsed
+    uint32_t flightsTaken
 ) {
     if (currentCity == destination) {
         // maxFlight option not used
-        if (!isMaxFlightsUsed)
+        if (!maxFlights)
             routes.push_back(Route(currentPath, currentPrice));
         // maxFlight option is used
-        if (isMaxFlightsUsed && flightsTaken == maxFlights)
+        if (maxFlights && flightsTaken == maxFlights)
             routes.push_back(Route(currentPath, currentPrice));
         return;
     }
 
-    if (flightsTaken >= maxFlights)
+    if (maxFlights && flightsTaken >= maxFlights)
         return;
 
     for (const Flight& flight : flights) {
