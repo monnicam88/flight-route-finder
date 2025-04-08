@@ -9,7 +9,7 @@
 int main() {
     RouteService routeService;
 
-    if (!routeService.loadFlightsFromFile("flights-network_rows-55.txt")) {
+    if (!routeService.loadFlightsFromFile("flights-network_rows-07.txt")) {
         std::cerr << "Error loading flights from file" << std::endl;
         return 1;
     }
