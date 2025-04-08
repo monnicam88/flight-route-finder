@@ -53,7 +53,6 @@ void startHttpServer(const RouteService& routeService) {
         // validation of the maxFlights parameter values directly on server layer
         uint32_t maxFlights = 0;
         if (requestBody.contains("maxFlights")) {
-            isMaxFlightsUsed = true;
             if (!requestBody["maxFlights"].is_number_unsigned() || requestBody["maxFlights"] == 0) {
                 res.set_content("{\"message\": \"The input for maxFlights is not in the correct format!\"}", "application/json");
                 res.status = 400;
