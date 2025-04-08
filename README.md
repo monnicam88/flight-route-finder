@@ -13,7 +13,7 @@
 ## Repository Structure
 
 ```
-PROS_Internship/
+flight-route-finder/
 |
 ├─ data/                                 # Raw datasets used for testing the functionallity
 |  ├─ flights/                           # Flights datasets
