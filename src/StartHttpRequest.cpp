@@ -45,7 +45,7 @@ void startHttpServer(const RouteService& routeService) {
         destination = requestBody["destination"].get<std::string>();
 
         if (origin == destination) {
-            res.set_content("[]", "application/json");
+            res.set_content("{\"message\": \"The origin and destination cannot be the same!\"}", "application/json");
             return;
         }
 
