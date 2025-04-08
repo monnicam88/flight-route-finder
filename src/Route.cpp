@@ -87,8 +87,7 @@ void Route::findRoutesRecursive(
                 currentPrice + flight.getPrice(),
                 routes,
                 maxFlights,
-                flightsTaken + 1,
-                isMaxFlightsUsed
+                flightsTaken + 1
             );
 
             visited.pop_back();
