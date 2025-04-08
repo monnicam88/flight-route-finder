@@ -72,7 +72,9 @@
   "origin": "MLE",
   "destination": "SOF"
 }</pre></td>
-<td><pre>[]</pre></td>
+<td><pre>{
+  "message": "There are no routes!"
+}</pre></td>
       <td align="center">200</td>
     </tr>
     <tr>
@@ -82,7 +84,9 @@
   "origin": "MAL",
   "destination": "MLE"
 }</pre></td>
-<td><pre>[]</pre></td>
+<td><pre>{
+  "message": "There are no routes!"
+}</pre></td>
       <td align="center">200</td>
     </tr>
     <tr>
@@ -243,7 +247,9 @@
   "origin": "SOF",
   "destination": "SOF"
 }</pre></td>
-<td><pre>[]</pre></td>
+<td><pre>{
+  "message": "The origin and destination"<a href="../data/responses/response_17.json">...</a>
+}</pre></td>
       <td align="center">200</td>
     </tr>
     <tr>
@@ -254,7 +260,9 @@
   "destination": "MLE",
   "maxFlights": 1000000
 }</pre></td>
-<td><pre>[]</pre></td>
+<td><pre>{
+  "message": "There are no routes!"
+}</pre></td>
       <td align="center">200</td>
     </tr>
     <tr>
@@ -265,7 +273,9 @@
   "destination": "MLE",
   "maxFlights": 4294967295
 }</pre></td>
-<td><pre>[]</pre></td>
+<td><pre>{
+  "message": "There are no routes!"
+}</pre></td>
       <td align="center">200</td>
     </tr>
     <tr>
