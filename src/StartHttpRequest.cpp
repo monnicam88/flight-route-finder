@@ -49,11 +49,9 @@ void startHttpServer(const RouteService& routeService) {
             return;
         }
 
-        // TODO: Future optimization to remove the "isMaxFlightsUsed" flag and add 
+        // [SOLVED] TODO: Future optimization to remove the "isMaxFlightsUsed" flag and add 
         // validation of the maxFlights parameter values directly on server layer
-        uint32_t maxFlights = UINT32_MAX;
-        bool isMaxFlightsUsed = false;
-
+        uint32_t maxFlights = 0;
         if (requestBody.contains("maxFlights")) {
             isMaxFlightsUsed = true;
             if (!requestBody["maxFlights"].is_number_unsigned() || requestBody["maxFlights"] == 0) {
@@ -73,7 +71,7 @@ void startHttpServer(const RouteService& routeService) {
             maxFlights = static_cast<uint32_t>(maxFlightsCheck);
         }
 
-        std::vector<Route> routeList = routeService.findRoutes(origin, destination, maxFlights, isMaxFlightsUsed);
+        std::vector<Route> routeList = routeService.findRoutes(origin, destination, maxFlights);
 
         if (routeList.empty()) {
             res.set_content("{\"message\": \"There are no routes!\"}", "application/json");
