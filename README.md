@@ -27,8 +27,8 @@ flight-route-finder/
 |     └─ response_N.json                 # N-th request response
 |
 ├─ docs/                                 # Document files (.md)
-|  ├─ Subtask 4.md/                      # Some test case scenarios
 |  ├─ CompilationProcess.md/             # How to run the project
+|  ├─ TestCases-Subtask4.md/             # Some test case scenarios
 |  └─ images/                            # Images used in the project
 |
 ├─ include/                              # Header files (.h/.hpp)
