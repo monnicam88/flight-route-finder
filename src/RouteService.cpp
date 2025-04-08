@@ -44,10 +44,10 @@ bool RouteService::loadFlightsFromFile(const std::string& filename) {
 
 std::vector<Route> RouteService::findRoutes(const std::string& origin,
     const std::string& destination,
-    uint32_t maxFlights, 
-    bool isMaxFlightsUsed) const
+    uint32_t maxFlights
+) const
 {
-    return Route::findPossibleRoutes(flights, origin, destination, maxFlights, isMaxFlightsUsed);
+    return Route::findPossibleRoutes(flights, origin, destination, maxFlights);
 }
 
 std::vector<Flight> RouteService::getFlights() const {
