@@ -19,8 +19,7 @@ public:
         const std::vector<Flight>& flights,
         const std::string& origin,
         const std::string& destination,
-        uint32_t maxFlights = UINT32_MAX, 
-        bool isMaxFlightsUsed = false
+        uint32_t maxFlights = 0
     );
 
 private:
@@ -33,7 +32,6 @@ private:
         uint32_t currentPrice,
         std::vector<Route>& routes,
         uint32_t maxFlights,
-        uint32_t flightsTaken,
-        bool isMaxFlightsUsed
+        uint32_t flightsTaken
     );
 };
