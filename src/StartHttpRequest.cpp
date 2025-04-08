@@ -49,6 +49,8 @@ void startHttpServer(const RouteService& routeService) {
             return;
         }
 
+        // TODO: Future optimization to remove the "isMaxFlightsUsed" flag and add 
+        // validation of the maxFlights parameter values directly on server layer
         uint32_t maxFlights = UINT32_MAX;
         bool isMaxFlightsUsed = false;
 
