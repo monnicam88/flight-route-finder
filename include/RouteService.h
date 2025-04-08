@@ -18,8 +18,7 @@ public:
     std::vector<Route> findRoutes(
         const std::string& origin,
         const std::string& destination,
-        uint32_t maxFlights = UINT32_MAX, 
-        bool maxFlightsSpecified = false
+        uint32_t maxFlights = 0
     ) const;
     std::vector<Flight> getFlights() const;
 };
