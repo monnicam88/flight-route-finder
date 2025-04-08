@@ -49,8 +49,8 @@ void startHttpServer(const RouteService& routeService) {
             return;
         }
 
-        // [SOLVED] TODO: Future optimization to remove the "isMaxFlightsUsed" flag and add 
-        // validation of the maxFlights parameter values directly on server layer
+        // [SOLVED] TODO: Future optimization to remove "isMaxFlightsUsed" flag... 
+        // See the "Issues" section -> Closed issues
         uint32_t maxFlights = 0;
         if (requestBody.contains("maxFlights")) {
             if (!requestBody["maxFlights"].is_number_unsigned() || requestBody["maxFlights"] == 0) {
