@@ -248,7 +248,7 @@
     </tr>
     <tr>
       <td>3.2.2</td>
-      <td><p align="justify">Value for parameter "maxFlights" smaller than `<uint32_t>` max capacity</p></td>
+      <td><p align="justify">Value for parameter "maxFlights" smaller than <b>uint32_t</b> max capacity</p></td>
 <td><pre>{ 
   "origin": "SOF",
   "destination": "MLE",
@@ -259,7 +259,7 @@
     </tr>
     <tr>
       <td>3.2.3</td>
-      <td><p align="justify">Value for parameter "maxFlights" equals to `<uint32_t>` max capacity</p></td>
+      <td><p align="justify">Value for parameter "maxFlights" equals to <b>uint32_t</b> max capacity</p></td>
 <td><pre>{ 
   "origin": "SOF",
   "destination": "MLE",
