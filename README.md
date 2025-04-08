@@ -28,7 +28,7 @@ flight-route-finder/
 |
 ├─ docs/                                 # Document files (.md)
 |  ├─ CompilationProcess.md/             # How to run the project
-|  ├─ TestCases-Subtask4.md/             # Some test case scenarios
+|  ├─ TestCases_Subtask4.md/             # Some test case scenarios
 |  └─ images/                            # Images used in the project
 |
 ├─ include/                              # Header files (.h/.hpp)
