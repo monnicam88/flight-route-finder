@@ -17,8 +17,8 @@ flight-route-finder/
 |
 ├─ data/                                 # Raw datasets used for testing the functionallity
 |  ├─ flights/                           # Flights datasets
-|  |  ├─ flights-network_rows-07.txt/    # Original data from the task condition
-|  |  └─ flights-network_rows-55.txt/    # Additionally generated data
+|  |  ├─ flights-network_rows-07.txt     # Original data from the task condition
+|  |  └─ flights-network_rows-55.txt     # Additionally generated data
 |  ├─ requests/                          # All requests from Subtask 4.md
 |  |  └─ requests.json               
 |  └─ responses/                         # All responses from Subtask 4.md
@@ -27,26 +27,26 @@ flight-route-finder/
 |     └─ response_N.json                 # N-th request response
 |
 ├─ docs/                                 # Document files (.md)
-|  ├─ CompilationProcess.md/             # How to run the project
-|  ├─ TestCases_Subtask4.md/             # Some test case scenarios
+|  ├─ CompilationProcess.md              # How to run the project
+|  ├─ TestCases_Subtask4.md              # Some test case scenarios
 |  └─ images/                            # Images used in the project
 |
 ├─ include/                              # Header files (.h/.hpp)
-|  ├─ json.hpp/                          # Used for HTTP server implementation
-|  ├─ httplib.h/                         # Used for HTTP server implementation
-|  ├─ Route.h/                           # Represents a complete route from origin to destination
-|  ├─ Flight.h/                          # Represents a single flight between two cities
-|  ├─ ConsoleDemo.h/                     # Represents Subtask 1
-|  ├─ RouteService.h/                    # Service layer for managing flight data and finding routes
-|  └─ StartHttpRequest.h/                # Represents Subtasks 2 and 3
+|  ├─ json.hpp                           # Used for HTTP server implementation
+|  ├─ httplib.h                          # Used for HTTP server implementation
+|  ├─ Route.h                            # Represents a complete route from origin to destination
+|  ├─ Flight.h                           # Represents a single flight between two cities
+|  ├─ ConsoleDemo.h                      # Represents Subtask 1
+|  ├─ RouteService.h                     # Service layer for managing flight data and finding routes
+|  └─ StartHttpRequest.h                 # Represents Subtasks 2 and 3
 |
 ├─ src/                                  # Implementation files (.cpp)
-|  ├─ main.cpp/                          # The project 'start point'
-|  ├─ Route.cpp/                         # Route finding algorithm
-|  ├─ Flight.cpp/                    
-|  ├─ ConsoleDemo.cpp/                   # Logic for Subtask 1
-|  ├─ RouteService.cpp/              
-|  └─ StartHttpRequest.cpp/              # Logic for Subtasks 2 and 3
+|  ├─ main.cpp                           # The project 'start point'
+|  ├─ Route.cpp                          # Route finding algorithm
+|  ├─ Flight.cpp                    
+|  ├─ ConsoleDemo.cpp                    # Logic for Subtask 1
+|  ├─ RouteService.cpp             
+|  └─ StartHttpRequest.cpp               # Logic for Subtasks 2 and 3
 |
 ├─ .gitignore                            # Specifies intentionally untracked files to ignore
 ├─ README.md                             # Overview of the project 
