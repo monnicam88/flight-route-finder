@@ -67,7 +67,7 @@
     </tr>
     <tr>
       <td>1.1.3</td>
-      <td><p align="justify">Verify empty array is returned when no routes exist</p></td>
+      <td><p align="justify">Verify a message is returned when no routes exist</p></td>
 <td><pre>{
   "origin": "MLE",
   "destination": "SOF"
@@ -79,7 +79,7 @@
     </tr>
     <tr>
       <td>1.1.4</td>
-      <td><p align="justify">Verify empty array is returned when having non-existent city codes</p></td>
+      <td><p align="justify">Verify a message is returned when having non-existent city codes</p></td>
 <td><pre>{
   "origin": "MAL",
   "destination": "MLE"
@@ -242,7 +242,7 @@
     </tr>
     <tr>
       <td>3.2.1</td>
-      <td><p align="justify">Verify empty array is returned when having same "origin" and "destination"</p></td>
+      <td><p align="justify">Verify a message is returned when having same "origin" and "destination"</p></td>
 <td><pre>{ 
   "origin": "SOF",
   "destination": "SOF"
