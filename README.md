@@ -1,5 +1,9 @@
 # Flight Route Finder
-[![C++14](https://img.shields.io/badge/C%2B%2B-14-orange)](https://en.cppreference.com/w/cpp/14) [![RESTful API](https://img.shields.io/badge/RESTful-API-darkpurple)](https://en.wikipedia.org/wiki/Representational_state_transfer) [![HTTP](https://img.shields.io/badge/HTTP-1.1-blue)](https://developer.mozilla.org/en-US/docs/Web/HTTP) [![JSON](https://img.shields.io/badge/JSON-Format-yellow)](https://www.json.org/json-en.html) [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+![C++ 14](https://img.shields.io/badge/C++_14-E36C09?style=flat&logo=cplusplus&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful_API-44CC11?style=flat&logo=postman&logoColor=white)
+![HTTP 1.1](https://img.shields.io/badge/HTTP_1.1-007EC6?style=flat&logo=google-chrome&logoColor=white)
+![JSON Format](https://img.shields.io/badge/JSON_Format-DFB317?style=flat&logo=json&logoColor=white)
+![License MIT](https://img.shields.io/badge/License_MIT-E05D84?style=flat&logo=open-source-initiative&logoColor=white)
 
 ## Introduction
 
